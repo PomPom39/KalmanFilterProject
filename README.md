@@ -11,3 +11,7 @@ The algorithm written in MATLAB takes input from Formatted_Data.csv. The data wa
 The results proved a significant improvement in position accuracy. Graphs have been provided in the Results directory.
 
 Further development can be done to improve the algorithm further so that data from many more sensors can be incorporated and be used in real time
+
+
+## Author
+Mahesh R Devadiga
